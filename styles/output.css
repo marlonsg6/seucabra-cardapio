@@ -1827,7 +1827,7 @@ video {
 }
 
 .bg-home {
-  background-image: url('/assets/paodemel-bg.png');
+  background-image: url('../assets/paodemel-bg.png');
 }
 
 .decoration-slice {
